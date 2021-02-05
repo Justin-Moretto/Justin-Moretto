@@ -1,4 +1,4 @@
-### Currently Looking for Work
+### 🎧 Currently Looking for Work 🎮
 
 I'm a full-stack web developer from Montreal, Canada.
 
