@@ -2,7 +2,7 @@
 
 I am a full-stack web developer from Montreal, Canada.
 
-Most experienced with Javascript, HTML, CSS, React, Ruby/Rails. Recent bootcamp graduate.
+Most experienced with Javascript, HTML, CSS, React, Express & Ruby/Rails. Recent bootcamp graduate.
 Currently working on my portfolio website, and mobile versions of my projects, while seeking employment. 
 
 Aside from web dev, I have a passion for game dev and am personally studying Unity and C#.
