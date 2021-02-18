@@ -7,7 +7,7 @@ Currently working on my portfolio website, and mobile versions of my projects, w
 
 Aside from web dev, I have a passion for game dev and am personally studying Unity and C#.
 
-Currently learning firebase, angular and Unity/C#.
+Currently learning firebase, typescript, angular and Unity/C#.
 
 When I'm not programming I am either doing music and audio production or enjoying reading, working out or playing video games.
 
