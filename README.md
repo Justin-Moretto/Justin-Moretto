@@ -1,6 +1,6 @@
-### 🎧 Currently Looking for Work 🎮
+### 🎧 Hello 🎮
 
-I am a full-stack web developer from Montreal, Canada.
+I am a web developer from Montreal, Canada.
 
 Most experienced with React, Firebase, Javascript, HTML, CSS, Express & jQuery. Trying to learn Angular and Typescript.
 Currently working on my portfolio website, and mobile versions of my projects, as well as seeking employment. 
