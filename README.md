@@ -1,10 +1,10 @@
 ### 🎧 Hello 🎮
 
-I am a web developer from Montreal, Canada.
+I am a Full-Stack developer from Montreal, Quebec. Currently employed for Stack Labs Canada.
 
-Most experienced with React, Firebase, Javascript, HTML, CSS, Express & jQuery. Cyrrently learning Dart/Flutter.
+Experienced with: Javascript/Typescript, C#, Dart/Flutter, React, Firebase, HTML/CSS.
 
-Aside from web dev, I have a passion for game dev and am personally studying Unity and C#.
+When I'm not working as a Web/Mobile dev, I also develop indie games in Unity.
 
 When I'm not programming I am either doing music and audio production or enjoying reading, working out or playing video games.
 
