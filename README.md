@@ -1,6 +1,6 @@
-Montreal, Canada
+MTL 🇨🇦
 
-### Mobile Dev::
+### Mobile Dev:
 Dart + Flutter
 
 ### Web Dev:
