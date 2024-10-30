@@ -1,14 +1,12 @@
-### 🎧 Hello 🎮
-
 Montreal, Canada
 
-Mobile Dev::
+## Mobile Dev::
 Dart + Flutter
 
-Web Dev:
+## Web Dev:
 TypeScript + React
 
-Game Dev:
+## Game Dev:
 C# + Unity
 
 <br>
