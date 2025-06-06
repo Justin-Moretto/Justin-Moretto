@@ -9,5 +9,5 @@ My Portfolio Site: [justinmoretto.ca](https://justin-moretto.github.io/portfolio
 LinkedIn: https://www.linkedin.com/in/justinmoretto/
 <br> 
 Itch.io: https://justinmoretto.itch.io/
-<br><br><br>
-Based in Montreal, Canada.
+<br><br>
+Based in Montreal, Canada
